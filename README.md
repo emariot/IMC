@@ -19,19 +19,19 @@ Calibramos o índice de acordo com a tabela de IMC:
   IMC < 40: Obesidade Grau II (Severa)
   IMC > 40: Obesidade Grau III (Mórbida)
   
-Fonte: https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal
+*Fonte: https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal
 
 O cálculo utilizado foi: peso / altura ** 2
 
 Os dados apurados nesta população foram:
 
-Min:  10.650335102331573: Muito Magro '\n'
-Max:  49.542390454242096: Obesidade Grau III (Mórbida)
-Max - Min:  38.89205535191052: Obesidade Grau II (Severa)
-Média:  24.789861568884213: Saudável
-Média Ponderada:  26.333002921945518: Sobrepeso
-Média Aritmética:  26.333002921945518: Sobrepeso
-Desvio Padrão:  8.487412759164904
-Variância:  72.03617534443522
+*Min:  10.650335102331573: Muito Magro
+*Max:  49.542390454242096: Obesidade Grau III (Mórbida)
+*Max - Min:  38.89205535191052: Obesidade Grau II (Severa)
+*Média:  24.789861568884213: Saudável
+*Média Ponderada:  26.333002921945518: Sobrepeso
+*Média Aritmética:  26.333002921945518: Sobrepeso
+*Desvio Padrão:  8.487412759164904
+*Variância:  72.03617534443522
 
 
