@@ -1,14 +1,15 @@
 # Cálculo de IMC
 
-Calculando IMC de de População gerada Randomicamente
+Calculando IMC de População gerada Randomicamente
 
 Este pequeno programa foi construído para gerar um arquivo csv com uma população aleatória, seu peso, altura e força de ponderação.
 
-Com os dados gerados é possível calcular o IMC, indice de massa corpória dos indivíduos.
+Com os dados gerados é possível calcular o IMC, indice de Massa Corpória dos indivíduos.
 
-O IMC é uma medid utilizada internacionalmente que medir o nível de gordura de cada pessoa.  
+O IMC é uma medida utilizada internacionalmente par medir o nível de gordura de cada pessoa.  
 
 Calibramos o índice de acordo com a tabela de IMC:  
+
   IMC < 16: Muito Magro
   IMC < 17: Magro Moderdo
   IMC < 18.5: Magro
