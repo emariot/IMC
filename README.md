@@ -1,6 +1,6 @@
 # Cálculo de IMC
 
-##Calculando IMC de População gerada Randomicamente
+## Calculando IMC de População gerada Randomicamente
 
 Este pequeno programa foi construído para gerar um arquivo csv com uma população aleatória, seu peso, altura e força de ponderação.
 
