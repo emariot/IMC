@@ -25,7 +25,7 @@ O cálculo utilizado foi: peso / altura ** 2
 
 Os dados apurados nesta população foram:
 
-Min:  10.650335102331573: Muito Magro
+Min:  10.650335102331573: Muito Magro \n
 Max:  49.542390454242096: Obesidade Grau III (Mórbida)
 Max - Min:  38.89205535191052: Obesidade Grau II (Severa)
 Média:  24.789861568884213: Saudável
