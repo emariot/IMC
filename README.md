@@ -12,7 +12,7 @@ Calibramos o índice de acordo com a tabela de IMC:
 
   
   |RESULTADO|           SITUAÇÃO         |
-  |---------|----------------------------|
+  |:---------:|:----------------------------:|
   |IMC < 16 | Muito Magro                |
   |IMC < 17 |Magro Moderdo               |
   |IMC < 18.5| Magro                 
