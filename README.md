@@ -44,3 +44,4 @@ Os dados apurados nesta população de 140 indivíduos foram:
 * IMC Mérdio do 3ºPercentil 26.620071990435658: Sobrepeso
 * IMC Mérdio do 4ºPercentil 38.945346043506: Obesidade Grau II (Severa)
 
+
