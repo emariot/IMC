@@ -37,6 +37,7 @@ Os dados apurados nesta população de 140 indivíduos foram:
 - Variância:  81.19431211302927
 
 ### Análise dos Percentis da População:
+---
 #### Percentil
 
 * IMC Mérdio do 1ºPercentil 15.97826636688736: Muito Magro
