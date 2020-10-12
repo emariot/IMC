@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 def tabela(valorIMC):
@@ -36,3 +37,26 @@ print('Média Aritmética: ', tabela(np.mean(imc)))
 
 print('Desvio Padrão: ', np.std(imc))
 print('Variância: ', np.var(imc))
+
+print('='*50)
+print('Percentil')
+print('='*50)
+print('IMC Mérdio do 1ºPercentil', tabela(np.median(np.percentile(imc, q=range(0, 25)))))
+print('IMC Mérdio do 2ºPercentil', tabela(np.median(np.percentile(imc, q=range(26, 50)))))
+print('IMC Mérdio do 3ºPercentil', tabela(np.median(np.percentile(imc, q=range(51, 75)))))
+print('IMC Mérdio do 4ºPercentil', tabela(np.median(np.percentile(imc, q=range(76, 100)))))
+
+
+y = []
+x = [1, 2, 3, 4]
+
+y.append(np.median(np.percentile(imc, q=range(0, 25))))
+y.append(np.median(np.percentile(imc, q=range(26, 50))))
+y.append(np.median(np.percentile(imc, q=range(51, 75))))
+y.append(np.median(np.percentile(imc, q=range(76, 100))))
+         
+plt.plot(x,y)
+plt.title('Persentis do IMC da população')
+plt.ylabel('Valor')
+plt.xlabel('Percentil')
+plt.show()
