@@ -1,5 +1,4 @@
 # Cálculo de IMC
-
 ## Calculando IMC de População gerada Randomicamente
 
 Este pequeno programa foi construído para gerar um arquivo csv com uma população aleatória, seu peso, altura e força de ponderação.
@@ -38,9 +37,8 @@ Os dados apurados nesta população de 140 indivíduos foram:
 - Variância:  81.19431211302927
 
 ### Análise dos Percentis da População:
----
 #### Percentil
----
+
 * IMC Mérdio do 1ºPercentil 15.97826636688736: Muito Magro
 * IMC Mérdio do 2ºPercentil 21.932645259793148: Saudável
 * IMC Mérdio do 3ºPercentil 26.620071990435658: Sobrepeso
