@@ -26,15 +26,23 @@ Calibramos o índice de acordo com a tabela de IMC:
 
 O cálculo utilizado foi: peso / altura ** 2
 
-Os dados apurados nesta população foram:
+Os dados apurados nesta população de 140 indivíduos foram:
 
-- Min:  10.650335102331573: Muito Magro
-- Max:  49.542390454242096: Obesidade Grau III (Mórbida)
-- Max - Min:  38.89205535191052: Obesidade Grau II (Severa)
-- Média:  24.789861568884213: Saudável
-- Média Ponderada:  26.333002921945518: Sobrepeso
-- Média Aritmética:  26.333002921945518: Sobrepeso
-- Desvio Padrão:  8.487412759164904
-- Variância:  72.03617534443522
+- Min:  11.07535807764753: Muito Magro
+- Max:  49.021529106193306: Obesidade Grau III (Mórbida)
+- Max - Min:  37.94617102854578: Obesidade Grau II (Severa)
+- Média:  24.072179761609966: Saudável
+- Média Ponderada:  25.685476229547668: Sobrepeso
+- Média Aritmética:  25.685476229547668: Sobrepeso
+- Desvio Padrão:  9.010788651002157
+- Variância:  81.19431211302927
 
+### Análise dos Percentis da População:
+---
+#### Percentil
+---
+* IMC Mérdio do 1ºPercentil 15.97826636688736: Muito Magro
+* IMC Mérdio do 2ºPercentil 21.932645259793148: Saudável
+* IMC Mérdio do 3ºPercentil 26.620071990435658: Sobrepeso
+* IMC Mérdio do 4ºPercentil 38.945346043506: Obesidade Grau II (Severa)
 
